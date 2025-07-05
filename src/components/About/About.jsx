@@ -1,8 +1,8 @@
 import React from "react";
 import "./About.css";
 import about_img from "../../assets/image9.jpg";
-import play_icon from "../../assets/play-icon.png";
-const About = ({ setPlayState }) => {
+
+const About = () => {
   return (
     <div id="about" className="about">
       <div className="about-left">
